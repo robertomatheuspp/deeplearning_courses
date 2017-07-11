@@ -25,3 +25,5 @@ Qualquer duvida, entre em [contato](mailto:robertomatheuspp@gmail.com).
 ----------
 ## Autores:
 [Roberto Pereira](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8743998Y2)
+
+[Giovanni Lucca](http://lattes.cnpq.br/4300669916019534)
